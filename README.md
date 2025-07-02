@@ -15,9 +15,27 @@ else:
     debug()
     if head.full():
         clear_cache()
+---
+
 ```
 
 </div>
+
+---
+## 📬 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arjit-sharma74">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="sharmaarjit886@gmai.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/Arjit0009Sharma">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</div>
+
 
 ---
 ## 📊 GitHub Analytics
@@ -129,21 +147,6 @@ else:
 * 🧠 Advanced AI/ML Architectures
 * 🚀 Performance Optimization Techniques
 
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arjit-sharma74">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="sharmaarjit886@gmai.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Arjit0009Sharma">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
