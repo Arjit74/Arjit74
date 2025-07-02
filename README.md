@@ -36,9 +36,6 @@ else:
 <!-- Profile Details -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjit74&theme=radical" width="100%"/>
 
-<!-- Productivity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjit74&theme=radical&area=true&hide_border=true" width="100%"/>
-
 <!-- Contribution Snake Animation -->
 <img src="https://raw.githubusercontent.com/Arjit74/Arjit74/output/github-contribution-grid-snake.svg" width="100%"/>
 
@@ -48,23 +45,6 @@ else:
 </div>
 
 ---
-
-## 🌟 Featured Repositories
-
-<div align="center">
-
-<!-- Featured Repo 1 -->
-<a href="https://github.com/Arjit74/Rakshak-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjit74&repo=Rakshak-App&theme=radical" />
-</a>
-
-<!-- Featured Repo 2 -->
-<a href="https://github.com/Arjit74/Deepfake-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arjit74&repo=Deepfake-Detection&theme=radical" />
-</a>
-
-</div>
-
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation">
 </div>
@@ -139,15 +119,6 @@ else:
 ### 🗣️ Speech Recognition Experiments
 
 > Using Wav2Vec2, Vosk & live audio streams for automation and safety tech.
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arjit74&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjit74&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 ---
 
