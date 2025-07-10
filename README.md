@@ -22,6 +22,12 @@ else:
 </div>
 
 ---
+
+<div align="center", width="25", height="20">
+  <img src="https://komarev.com/ghpvc/?username=Arjit74&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -174,12 +180,6 @@ function buildSolutions() {
 > "First solve the problem. Then write the code."
 > "Commit often, perfect later, publish once."
 > "The best error message is the one that never shows up."
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjit74&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 ---
 
